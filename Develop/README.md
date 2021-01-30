@@ -1,10 +1,8 @@
-# abus project
-
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# README Generator
   
 ## Description
 
-this is my readme project
+This is a simple README generator.
 
 ## Table of Contents
 
@@ -24,12 +22,8 @@ npm i
 
 ## Usage
 
-enjoy this app
+Have fun!
   
-## License
-    
-This project is licensed under the MIT license.
-    
 ## Contributing
 
 
@@ -41,5 +35,5 @@ npm test
 
 ## Questions
 
-You can reach out to me at [abu@abu.com](mailto:abu@abu.com). Find more of my work at [abu](https://github.com/abu)
+You can reach out to me at [a.zeynu8@gmail.com](mailto:a.zeynu8@gmail.com). Find more of my work at [abdulhalim-zeynu](https://github.com/abdulhalim-zeynu)
   
