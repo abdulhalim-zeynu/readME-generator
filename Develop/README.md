@@ -1,8 +1,10 @@
-# project abu
+# abus project
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
 ## Description
 
-this is my projecy
+this is my readme project
 
 ## Table of Contents
 
@@ -22,8 +24,12 @@ npm i
 
 ## Usage
 
-
+enjoy this app
   
+## License
+    
+This project is licensed under the MIT license.
+    
 ## Contributing
 
 
